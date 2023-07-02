@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FruitsClassificationApp</string>
+    <string name="signup">REGISTER</string>
+    <string name="signin">LOG IN</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="user">User</string>
+    <string name="admin">Admin</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="msg_email_require">Please enter your email address!</string>
+    <string name="msg_password_require">Please enter your password!</string>
+    <string name="msg_email_invalid">Invalid email, please enter email again!</string>
+    <string name="msg_email_invalid_admin">Admin emails need to be in the format …@admin.com</string>
+    <string name="msg_email_invalid_user">Invalid email for users</string>
+    <string name="msg_sign_up_error">Registration failed, please try again!</string>
+    <string name="msg_sign_in_error">Login failed, please try again!</string>
+
+</resources>
